@@ -1,0 +1,12 @@
+
+git init
+git status
+git config --global user.email "mhlee@nawoo.net"
+git config --global user.name "mhlee"
+
+
+
+git remote add origin https://github.com/lmhjung/testNode.git
+git push origin mater 혹은 git push origin +master
+
+
